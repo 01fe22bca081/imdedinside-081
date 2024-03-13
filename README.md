@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @imdedinside-081
+- 👀 I’m interested in Backend Dec
+- 🌱 I’m currently learning ML and MERN Stack
+- 📫 How to reach me: @imdedinside on Discord
